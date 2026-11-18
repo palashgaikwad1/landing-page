@@ -6,9 +6,9 @@ const pageLinks = [{ label: 'Home', href: '#home' }, ...navLinks]
 const connectLinks = [
   { label: 'Email', href: `mailto:${brand.email}`, external: true },
   { label: 'Phone', href: `tel:${brand.phone.replace(/\s/g, '')}`, external: true },
-  { label: 'LinkedIn', href: '#', external: true },
-  { label: 'Instagram', href: '#', external: true },
-  { label: 'X / Twitter', href: '#', external: true },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/company/techzify/', external: true },
+  { label: 'Instagram', href: 'https://www.instagram.com/techzify.global?srtk=MW4zY2Q0Mml5dTN0eg%3D%3D&utm_source=qr', external: true },
+  { label: 'X / Twitter', href: 'https://x.com/techzifyglobal?s=11', external: true },
 ]
 
 const WORDMARK = `${brand.name.toUpperCase()}.`

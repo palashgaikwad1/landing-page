@@ -1,8 +1,8 @@
 export const brand = {
   name: 'Techzify',
-  email: 'hello@techzify.com',
-  phone: '+91 98765 43210',
-  location: 'India',
+  email: 'hello@techzify.io',
+  phone: '+61 478 479 282',
+  location: '21 Lyn St, Redbank Plains QLD 4301, Australia ',
 }
 
 export const navLinks = [
